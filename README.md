@@ -1,1 +1,2 @@
-# 3d_labyrinth
+# 3D Labyrinth
+Work in progress...
